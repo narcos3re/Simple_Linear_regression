@@ -1,4 +1,3 @@
-# This is the Task-6 of Kaiburr campus Assessment 
 ## NAME : P KOUSHIK SRIRAM
 ## REGISTRATION NUMBER :19BCE1629
 ## EMAIL ID : kouram124@gmail.com
